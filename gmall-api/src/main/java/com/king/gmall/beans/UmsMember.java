@@ -1,4 +1,4 @@
-package com.king.gmall.user.bean;
+package com.king.gmall.beans;
 
 /**
  * Created by Administrator on 2019/11/26.

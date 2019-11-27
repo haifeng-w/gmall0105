@@ -1,6 +1,6 @@
 package com.king.gmall.user.mapper;
 
-import com.king.gmall.user.bean.UmsMember;
+import com.king.gmall.beans.UmsMember;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Select;
 

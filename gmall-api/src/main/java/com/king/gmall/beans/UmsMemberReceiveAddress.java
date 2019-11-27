@@ -1,4 +1,4 @@
-package com.king.gmall.user.bean;
+package com.king.gmall.beans;
 
 import java.io.Serializable;
 

@@ -1,8 +1,8 @@
 package com.king.gmall.user.controller;
 
-import com.king.gmall.user.bean.UmsMember;
-import com.king.gmall.user.bean.UmsMemberReceiveAddress;
-import com.king.gmall.user.service.UserService;
+import com.king.gmall.beans.UmsMember;
+import com.king.gmall.beans.UmsMemberReceiveAddress;
+import com.king.gmall.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.PathVariable;

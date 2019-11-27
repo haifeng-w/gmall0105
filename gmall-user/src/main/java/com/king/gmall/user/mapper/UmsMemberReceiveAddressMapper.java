@@ -1,6 +1,6 @@
 package com.king.gmall.user.mapper;
 
-import com.king.gmall.user.bean.UmsMemberReceiveAddress;
+import com.king.gmall.beans.UmsMemberReceiveAddress;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Select;
 
